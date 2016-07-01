@@ -1,0 +1,8 @@
+---
+applications:
+- name: digitalyst-participant-103013631
+  memory: 512M
+  host: digitalyst-participant-103013631
+  path: target/Lab3-0.0.5-SNAPSHOT.jar
+  services:
+     - postgresql-302018112 

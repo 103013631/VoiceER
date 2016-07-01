@@ -1,0 +1,12 @@
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/entity/ERDataStore.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/service/LighterService.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/service/DigitalystService.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/service/CallerService.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/entity/Lighter.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/entity/Caller.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/repository/DigitalystModelRep.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/entity/DigitalystModel.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/repository/CallerModelRep.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/application/DigitalystApplication.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/repository/LighterModelRep.java
+/predix/predix-workshop/Lab3/src/main/java/com/ge/predix/digitalyst/controller/DigitalystController.java
